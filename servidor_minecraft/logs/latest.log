@@ -890,3 +890,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Nov2024 14:19:44.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii joined the game
 [27Nov2024 14:19:48.018] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4767ms or 95 ticks
 [27Nov2024 14:19:48.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4009ms or 80 ticks behind
+[27Nov2024 14:23:40.763] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1189, y=29, z=590}
+[27Nov2024 14:23:41.278] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2016ms or 40 ticks
+[27Nov2024 14:24:12.023] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2102ms or 42 ticks
+[27Nov2024 14:25:01.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbasto_[/[::1]:57792] logged in with entity id 19764 at (-1051.9445443557902, 77.0, 284.3684247043714)
+[27Nov2024 14:25:01.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ joined the game
+[27Nov2024 14:25:01.460] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2403ms or 48 ticks
+[27Nov2024 14:25:13.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ suffocated in a wall
+[27Nov2024 14:25:30.304] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2029ms or 40 ticks
+[27Nov2024 14:25:35.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[27Nov2024 14:25:50.976] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2080ms or 41 ticks
+[27Nov2024 14:25:53.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3328ms or 66 ticks behind
+[27Nov2024 14:26:12.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[27Nov2024 14:26:15.063] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2042ms or 40 ticks
+[27Nov2024 14:27:23.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made elbasto_ a server operator
+[27Nov2024 14:27:24.737] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2059ms or 41 ticks
+[27Nov2024 14:27:31.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbasto_: Set own game mode to Spectator Mode]
+[27Nov2024 14:28:02.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbasto_: Set own game mode to Survival Mode]
+[27Nov2024 14:28:06.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbasto_: Teleported elbasto_ to Danynii]
+[27Nov2024 14:28:16.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbasto_: Teleported elbasto_ to Danynii]
