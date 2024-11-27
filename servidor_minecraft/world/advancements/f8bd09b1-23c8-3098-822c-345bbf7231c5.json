@@ -45,11 +45,13 @@
     "criteria": {
       "minecraft:deep_ocean": "2024-11-27 14:42:13 +0000",
       "minecraft:savanna_plateau": "2024-11-21 02:56:26 +0000",
+      "minecraft:beach": "2024-11-27 15:07:51 +0000",
       "minecraft:stony_peaks": "2024-11-21 03:41:44 +0000",
       "minecraft:dark_forest": "2024-11-27 14:47:40 +0000",
       "minecraft:lukewarm_ocean": "2024-11-21 03:14:56 +0000",
       "minecraft:river": "2024-11-21 03:01:20 +0000",
       "minecraft:stony_shore": "2024-11-21 03:14:49 +0000",
+      "minecraft:lush_caves": "2024-11-27 14:48:44 +0000",
       "minecraft:ocean": "2024-11-27 14:41:42 +0000",
       "minecraft:meadow": "2024-11-21 03:08:30 +0000",
       "minecraft:savanna": "2024-11-21 02:32:47 +0000",
@@ -2604,6 +2606,7 @@
       "spider_nest": "2024-11-23 05:57:06 +0000",
       "lavender_field": "2024-11-21 04:29:08 +0000",
       "grassland": "2024-11-27 14:41:07 +0000",
+      "glowing_grotto": "2024-11-27 14:49:18 +0000",
       "rainforest": "2024-11-27 14:40:13 +0000"
     },
     "done": false
@@ -5718,6 +5721,78 @@
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2024-11-27 14:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-11-27 14:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-11-27 15:09:36 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-11-27 15:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-11-27 15:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-11-27 15:07:19 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-11-27 15:07:19 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-11-27 15:07:19 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-11-27 15:07:19 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2024-11-27 15:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-11-27 15:07:19 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-11-27 15:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-11-27 15:07:19 +0000"
     },
     "done": true
   },
