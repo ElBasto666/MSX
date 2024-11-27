@@ -7284,6 +7284,12 @@
     },
     "done": true
   },
+  "slashblade:tips/bladestand": {
+    "criteria": {
+      "getitem1": "2024-11-27 19:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-11-27 16:12:37 +0000"
