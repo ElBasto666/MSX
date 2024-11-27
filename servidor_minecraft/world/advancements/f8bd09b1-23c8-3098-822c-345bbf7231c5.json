@@ -5730,6 +5730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-27 15:15:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-11-27 15:09:36 +0000"
@@ -5745,6 +5751,18 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-11-27 15:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-27 15:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-27 15:15:48 +0000"
     },
     "done": true
   },
