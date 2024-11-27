@@ -6894,6 +6894,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2024-11-27 17:38:10 +0000"
+    },
+    "done": true
+  },
   "vinery:main/apple_press": {
     "criteria": {
       "apple_press": "2024-11-27 16:29:17 +0000"
@@ -7008,6 +7014,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2024-11-27 17:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2024-11-27 15:39:13 +0000"
@@ -7050,6 +7062,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-27 17:38:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2024-11-27 16:17:59 +0000"
@@ -7089,6 +7107,12 @@
   "graveyard:graveyard/kill_wraith": {
     "criteria": {
       "wraith": "2024-11-27 15:50:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2024-11-27 17:38:10 +0000"
     },
     "done": true
   },
@@ -7149,6 +7173,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2024-11-27 16:41:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2024-11-27 17:38:10 +0000"
     },
     "done": true
   },
@@ -7344,6 +7374,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-27 17:38:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_counter": {
     "criteria": {
       "has_dark_oak_counter": "2024-11-27 16:12:37 +0000"
@@ -7431,6 +7467,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-11-27 16:49:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2024-11-27 17:38:10 +0000"
     },
     "done": true
   },
@@ -7626,9 +7668,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-27 17:38:10 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/bread_crate": {
     "criteria": {
       "has_tray": "2024-11-27 16:12:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-27 17:38:10 +0000"
     },
     "done": true
   },
