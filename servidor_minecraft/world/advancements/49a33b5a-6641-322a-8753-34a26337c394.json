@@ -6868,13 +6868,15 @@
   },
   "bakery:main/get_everything": {
     "criteria": {
-      "bakery:strawberry_jam": "2024-11-27 16:23:40 +0000"
+      "bakery:strawberry_jam": "2024-11-27 16:23:40 +0000",
+      "bakery:apple_jam": "2024-11-27 16:39:05 +0000"
     },
     "done": false
   },
   "bakery:main/get_all_jams": {
     "criteria": {
-      "bakery:strawberry_jam": "2024-11-27 16:23:40 +0000"
+      "bakery:strawberry_jam": "2024-11-27 16:23:40 +0000",
+      "bakery:apple_jam": "2024-11-27 16:39:05 +0000"
     },
     "done": false
   },
@@ -7136,6 +7138,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-11-27 16:41:51 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/wraith_dim_light": {
     "criteria": {
       "dim_light": "2024-11-27 15:41:38 +0000"
@@ -7202,6 +7210,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-11-27 16:41:51 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_big": {
     "criteria": {
       "has_dark_oak_planks": "2024-11-27 16:12:37 +0000"
@@ -7265,6 +7279,12 @@
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2024-11-27 15:28:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-11-27 16:41:51 +0000"
     },
     "done": true
   },
@@ -7373,6 +7393,12 @@
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_flower": "2024-11-27 15:29:39 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple_mash": {
+    "criteria": {
+      "apple_mash": "2024-11-27 16:35:08 +0000"
     },
     "done": true
   },
@@ -7490,9 +7516,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-11-27 16:41:59 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/dark_iron": {
     "criteria": {
       "dark_iron": "2024-11-27 15:51:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2024-11-27 16:41:59 +0000"
     },
     "done": true
   },
@@ -7583,6 +7621,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-11-27 16:17:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2024-11-27 16:41:59 +0000"
     },
     "done": true
   },
