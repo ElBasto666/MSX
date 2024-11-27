@@ -3827,6 +3827,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2024-11-27 14:32:17 +0000",
       "tomato": "2024-11-21 23:57:48 +0000",
       "potato": "2024-11-21 23:23:37 +0000",
       "wheat": "2024-11-21 23:25:13 +0000"
@@ -5692,6 +5693,24 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-11-23 06:36:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 14:32:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 14:32:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-11-27 14:32:13 +0000"
     },
     "done": true
   },
