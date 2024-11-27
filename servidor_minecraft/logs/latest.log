@@ -912,3 +912,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Nov2024 20:28:42.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
 [27Nov2024 20:32:36.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
 [27Nov2024 20:32:56.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[27Nov2024 20:44:02.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Lorem Ipsum]
+[27Nov2024 20:46:03.526] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2036ms or 40 ticks
+[27Nov2024 20:49:56.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [The Journey Begins]
+[27Nov2024 20:50:00.932] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at -2044 -56 -3649 in 1s
+[27Nov2024 20:53:08.692] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2211ms or 44 ticks

@@ -7045,6 +7045,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-11-27 20:49:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2024-11-27 16:12:37 +0000"
@@ -7102,6 +7108,12 @@
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2024-11-27 16:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2024-11-27 20:47:32 +0000"
     },
     "done": true
   },
@@ -7246,6 +7258,12 @@
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_planks": "2024-11-27 17:38:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-11-27 20:44:02 +0000"
     },
     "done": true
   },
@@ -7423,6 +7441,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2024-11-27 20:47:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2024-11-27 15:39:30 +0000"
@@ -7438,6 +7462,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2024-11-27 16:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-27 20:47:32 +0000"
     },
     "done": true
   },
@@ -7678,6 +7708,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-11-27 16:12:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2024-11-27 20:47:32 +0000"
     },
     "done": true
   },
