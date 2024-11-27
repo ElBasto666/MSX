@@ -7242,6 +7242,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2024-11-27 17:14:10 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_big": {
     "criteria": {
       "has_dark_oak_planks": "2024-11-27 16:12:37 +0000"
@@ -7461,6 +7467,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-11-27 17:06:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2024-11-27 17:14:10 +0000"
     },
     "done": true
   },
