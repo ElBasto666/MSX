@@ -81,3 +81,7 @@
 [30Nov2024 01:14:31.570] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2135ms or 42 ticks
 [30Nov2024 01:18:47.032] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -185 -56 7264 in 3s
 [30Nov2024 01:18:47.036] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2207ms or 44 ticks
+[30Nov2024 01:18:59.041] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -160 -56 513 in 2s
+[30Nov2024 01:18:59.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[30Nov2024 01:27:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Anonymity -Bamboo Light-]
+[30Nov2024 01:28:20.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Blade Arts -Combo A-              ]
