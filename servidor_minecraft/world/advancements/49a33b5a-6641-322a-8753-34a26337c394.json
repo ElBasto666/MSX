@@ -8406,6 +8406,12 @@
     },
     "done": true
   },
+  "beautify:progression/rope": {
+    "criteria": {
+      "obtain": "2024-11-30 02:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-11-29 23:35:06 +0000"
@@ -8698,6 +8704,12 @@
   "handcrafted:recipes/misc/bamboo_bench": {
     "criteria": {
       "has_bamboo_bench": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "beautify:hanging_pot": {
+    "criteria": {
+      "requirement": "2024-11-30 02:48:50 +0000"
     },
     "done": true
   },
