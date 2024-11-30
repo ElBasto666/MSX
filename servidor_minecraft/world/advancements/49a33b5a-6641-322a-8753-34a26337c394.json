@@ -8659,6 +8659,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2024-11-30 02:57:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/gray_toilet": {
     "criteria": {
       "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
