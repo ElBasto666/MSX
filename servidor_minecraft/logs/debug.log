@@ -4792,3 +4792,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [30Nov2024 03:06:50.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Nov2024 03:06:50.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Nov2024 03:09:28.695] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1055, y=73, z=290}
+[30Nov2024 03:11:50.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 03:11:50.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 03:15:44.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement [Anonymity -Bamboo Light-]
+[30Nov2024 03:16:26.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement [Blade Arts -Combo B-              ]
+[30Nov2024 03:16:50.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 03:16:50.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 03:18:08.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement [Blade Arts -Combo C-              ]

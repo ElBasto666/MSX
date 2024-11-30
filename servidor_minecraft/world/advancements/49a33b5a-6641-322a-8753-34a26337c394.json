@@ -8338,6 +8338,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-11-30 03:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-11-30 02:01:53 +0000",
@@ -8974,6 +8980,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-11-30 01:56:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-11-30 03:12:59 +0000"
     },
     "done": true
   },

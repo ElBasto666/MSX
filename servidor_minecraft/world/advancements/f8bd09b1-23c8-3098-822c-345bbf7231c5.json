@@ -5895,6 +5895,25 @@
     },
     "done": true
   },
+  "slashblade:blade/s_bamboo": {
+    "criteria": {
+      "crafting": "2024-11-30 03:15:44 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_silverbamboo": {
+    "criteria": {
+      "has_slashblade_bamboo": "2024-11-30 03:15:44 +0000",
+      "has_the_recipe": "2024-11-30 03:15:44 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2024-11-30 03:16:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2024-11-30 03:00:14 +0000"
@@ -5913,9 +5932,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-11-30 03:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-11-30 03:06:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-11-30 03:16:36 +0000"
     },
     "done": true
   },
