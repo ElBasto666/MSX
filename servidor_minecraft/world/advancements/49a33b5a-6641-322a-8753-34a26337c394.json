@@ -43,6 +43,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-11-30 04:03:38 +0000",
       "minecraft:deep_ocean": "2024-11-27 14:42:13 +0000",
       "minecraft:savanna_plateau": "2024-11-21 03:44:47 +0000",
       "minecraft:beach": "2024-11-27 15:07:14 +0000",
@@ -8358,6 +8359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-11-30 04:04:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/orange_toilet": {
     "criteria": {
       "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
@@ -8367,6 +8374,12 @@
   "refurbished_furniture:recipes/decorations/dark_toaster": {
     "criteria": {
       "has_toaster": "2024-11-30 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2024-11-30 04:03:31 +0000"
     },
     "done": true
   },
@@ -8761,6 +8774,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2024-11-30 04:03:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-11-30 01:56:19 +0000"
@@ -8890,6 +8909,12 @@
   "minecraft:recipes/decorations/bamboo_sign": {
     "criteria": {
       "has_planks": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/hanging_lights": {
+    "criteria": {
+      "has_lights": "2024-11-30 04:06:17 +0000"
     },
     "done": true
   },
@@ -9130,6 +9155,12 @@
   "handcrafted:recipes/misc/bamboo_cupboard": {
     "criteria": {
       "has_bamboo_cupboard": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-11-30 04:04:04 +0000"
     },
     "done": true
   },

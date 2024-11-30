@@ -116,3 +116,36 @@
 [30Nov2024 03:49:35.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
 [30Nov2024 03:51:50.568] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2143ms or 42 ticks
 [30Nov2024 03:57:43.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement [Hunt and Gather]
+[30Nov2024 04:01:46.105] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2966ms or 59 ticks
+[30Nov2024 04:02:21.220] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 12136ms or 242 ticks
+[30Nov2024 04:02:21.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10136ms or 202 ticks behind
+[30Nov2024 04:02:47.614] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2114ms or 42 ticks
+[30Nov2024 04:03:05.111] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 9752ms or 195 ticks
+[30Nov2024 04:03:05.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9226ms or 184 ticks behind
+[30Nov2024 04:03:05.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danynii moved too quickly! -2.0209877269588787,1.2579991035152815,10.005579725972666
+[30Nov2024 04:03:16.429] [Worker-Main-225/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:03:16.433] [Worker-Main-225/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 04:03:22.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Gravedigger]
+[30Nov2024 04:03:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Well prepared]
+[30Nov2024 04:03:38.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Teleported Danynii to elbasto_]
+[30Nov2024 04:03:52.877] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=447, y=6, z=349}
+[30Nov2024 04:03:59.021] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=447, y=-42, z=576}
+[30Nov2024 04:04:07.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=322, y=141, z=458} BlockPos{x=323, y=140, z=457}
+[30Nov2024 04:04:09.221] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2056ms or 41 ticks
+[30Nov2024 04:04:10.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=326, y=138, z=459} BlockPos{x=324, y=136, z=458}
+[30Nov2024 04:04:10.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=139, z=458} BlockPos{x=325, y=138, z=458}
+[30Nov2024 04:04:10.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=139, z=458} BlockPos{x=325, y=138, z=458}
+[30Nov2024 04:04:10.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=139, z=458} BlockPos{x=325, y=138, z=458}
+[30Nov2024 04:04:10.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=139, z=458} BlockPos{x=325, y=138, z=458}
+[30Nov2024 04:04:10.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=139, z=458} BlockPos{x=325, y=138, z=458}
+[30Nov2024 04:04:10.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=139, z=458} BlockPos{x=325, y=138, z=458}
+[30Nov2024 04:04:10.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=141, z=458} BlockPos{x=325, y=138, z=458}
+[30Nov2024 04:04:13.027] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=171, y=-31, z=371}
+[30Nov2024 04:04:30.412] [Worker-Main-225/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=240, y=-42, z=292}
+[30Nov2024 04:04:30.419] [Worker-Main-225/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=240, y=-41, z=292}
+[30Nov2024 04:04:52.208] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2737ms or 54 ticks
+[30Nov2024 04:04:59.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[30Nov2024 04:05:08.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbasto_: Teleported elbasto_ to Danynii]
+[30Nov2024 04:05:13.893] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3988ms or 79 ticks
+[30Nov2024 04:05:17.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[30Nov2024 04:05:57.728] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2083ms or 41 ticks
