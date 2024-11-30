@@ -8857,6 +8857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-11-30 03:36:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
     "criteria": {
       "has_baths": "2024-11-30 02:30:33 +0000"

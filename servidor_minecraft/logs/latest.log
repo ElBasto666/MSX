@@ -110,3 +110,7 @@
 [30Nov2024 03:26:50.613] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2050ms or 41 ticks
 [30Nov2024 03:33:02.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ has made the advancement [The Journey Begins]
 [30Nov2024 03:40:05.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ was sliced to death by a ceiling fan
+[30Nov2024 03:48:16.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[30Nov2024 03:48:30.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[30Nov2024 03:49:31.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[30Nov2024 03:49:35.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
