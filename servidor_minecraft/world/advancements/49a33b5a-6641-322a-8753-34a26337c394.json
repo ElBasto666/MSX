@@ -2771,10 +2771,12 @@
       "jade_cliffs": "2024-11-21 04:27:49 +0000",
       "clover_patch": "2024-11-27 14:47:26 +0000",
       "old_growth_woodland": "2024-11-21 03:41:17 +0000",
+      "withered_abyss": "2024-11-30 01:59:24 +0000",
       "orchard": "2024-11-21 04:30:47 +0000",
       "lavender_forest": "2024-11-21 04:29:12 +0000",
       "mediterranean_forest": "2024-11-21 03:35:18 +0000",
       "redwood_forest": "2024-11-21 04:30:00 +0000",
+      "visceral_heap": "2024-11-30 02:02:02 +0000",
       "pasture": "2024-11-21 04:27:43 +0000",
       "lavender_field": "2024-11-21 04:29:08 +0000",
       "grassland": "2024-11-27 14:41:18 +0000",
@@ -8305,9 +8307,29 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_light_range_hood": "2024-11-30 02:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-11-30 02:01:53 +0000",
+      "minecraft:nether_wastes": "2024-11-30 01:56:29 +0000",
+      "minecraft:warped_forest": "2024-11-30 01:57:08 +0000"
+    },
+    "done": false
+  },
   "slashblade:blade/s_bamboo": {
     "criteria": {
       "crafting": "2024-11-30 01:27:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_toaster": "2024-11-30 02:14:04 +0000"
     },
     "done": true
   },
@@ -8341,6 +8363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-30 01:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-11-29 23:35:06 +0000"
@@ -8356,6 +8384,30 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-11-30 00:36:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_light_toaster": "2024-11-30 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_oak_light_ceiling_fan": "2024-11-30 02:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-11-30 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-11-30 01:58:12 +0000"
     },
     "done": true
   },
@@ -8380,6 +8432,18 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-11-30 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-11-30 01:58:12 +0000"
     },
     "done": true
   },
@@ -8432,6 +8496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-11-30 01:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-11-30 01:04:08 +0000"
@@ -8456,9 +8526,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_range_hood": "2024-11-30 02:11:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bamboo_counter": {
     "criteria": {
       "has_bamboo_counter": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-30 01:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-30 01:57:28 +0000"
     },
     "done": true
   },
@@ -8477,6 +8565,12 @@
   "chimes:recipes/decorations/bamboo_chimes": {
     "criteria": {
       "has_planks": "2024-11-30 00:39:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:09:42 +0000"
     },
     "done": true
   },
@@ -8504,6 +8598,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-11-30 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-11-30 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/toasting/toast": {
+    "criteria": {
+      "has_ingredient": "2024-11-30 02:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-11-30 01:04:08 +0000"
@@ -8519,6 +8631,12 @@
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-30 01:56:19 +0000"
     },
     "done": true
   },
@@ -8543,6 +8661,12 @@
   "handcrafted:recipes/misc/bamboo_side_table": {
     "criteria": {
       "has_bamboo_side_table": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-11-30 02:02:18 +0000"
     },
     "done": true
   },
