@@ -19,3 +19,36 @@
 [30Nov2024 00:21:24.091] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2319ms or 46 ticks
 [30Nov2024 00:31:00.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Not Today, Thank You]
 [30Nov2024 00:36:24.031] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2083ms or 41 ticks
+[30Nov2024 00:40:09.673] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3014ms or 60 ticks
+[30Nov2024 00:40:09.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[30Nov2024 00:42:15.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[30Nov2024 00:42:42.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[30Nov2024 00:42:57.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Once Upon a Cave]
+[30Nov2024 00:44:05.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[30Nov2024 00:44:31.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[30Nov2024 00:44:40.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Chest Slayer]
+[30Nov2024 00:45:16.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[30Nov2024 00:45:22.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[30Nov2024 00:45:27.693] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2051ms or 41 ticks
+[30Nov2024 00:50:16.662] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2072ms or 41 ticks
+[30Nov2024 00:50:52.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[30Nov2024 00:51:23.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[30Nov2024 00:53:33.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[30Nov2024 00:54:15.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[30Nov2024 00:54:42.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[30Nov2024 00:54:52.757] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2066ms or 41 ticks
+[30Nov2024 00:55:21.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[30Nov2024 00:55:45.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[30Nov2024 00:56:09.147] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2070ms or 41 ticks
+[30Nov2024 00:56:09.437] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-972, y=2, z=-97}
+[30Nov2024 00:56:09.439] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-971, y=2, z=-97}
+[30Nov2024 00:56:09.439] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-970, y=2, z=-97}
+[30Nov2024 00:56:10.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[30Nov2024 00:56:13.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[30Nov2024 00:56:26.115] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-982, y=-9, z=-153}
+[30Nov2024 00:56:26.116] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-983, y=-9, z=-153}
+[30Nov2024 00:56:26.983] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2006ms or 40 ticks
+[30Nov2024 00:56:29.557] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1029, y=-4, z=-169}
+[30Nov2024 00:56:44.822] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2012ms or 40 ticks
+[30Nov2024 00:57:10.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[30Nov2024 00:58:01.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
