@@ -5901,6 +5901,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-11-30 03:33:02 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/slashblade_silverbamboo": {
     "criteria": {
       "has_slashblade_bamboo": "2024-11-30 03:15:44 +0000",
@@ -5911,6 +5917,12 @@
   "slashblade:arts/combo_b": {
     "criteria": {
       "customtrigger": "2024-11-30 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2024-11-30 03:18:08 +0000"
     },
     "done": true
   },
