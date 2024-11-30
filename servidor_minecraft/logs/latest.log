@@ -98,3 +98,5 @@
 [30Nov2024 02:07:18.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4973ms or 99 ticks behind
 [30Nov2024 02:26:01.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [She clearly doesn't look like that!]
 [30Nov2024 02:26:50.564] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2074ms or 41 ticks
+[30Nov2024 02:35:12.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbasto_[/[::1]:35696] logged in with entity id 48467 at (-1051.7448764606686, 72.0, 293.2102568615566)
+[30Nov2024 02:35:12.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ joined the game

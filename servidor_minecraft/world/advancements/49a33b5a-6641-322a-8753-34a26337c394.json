@@ -8296,9 +8296,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bamboo_pillar_trim": {
     "criteria": {
       "has_bamboo_pillar_trim": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
     },
     "done": true
   },
@@ -8308,9 +8320,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
     "criteria": {
       "has_light_range_hood": "2024-11-30 02:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
     },
     "done": true
   },
@@ -8325,6 +8349,12 @@
   "slashblade:blade/s_bamboo": {
     "criteria": {
       "crafting": "2024-11-30 01:27:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
     },
     "done": true
   },
@@ -8370,6 +8400,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-11-29 23:35:06 +0000"
@@ -8385,6 +8421,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-11-30 00:36:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
     },
     "done": true
   },
@@ -8409,6 +8451,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-11-30 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
     },
     "done": true
   },
@@ -8442,15 +8490,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/green_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-11-30 01:58:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bamboo_table": {
     "criteria": {
       "has_bamboo_table": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
     },
     "done": true
   },
@@ -8461,15 +8533,57 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-30 01:44:25 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/orange_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2024-11-30 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
     },
     "done": true
   },
@@ -8485,9 +8599,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_light_lightswitch": "2024-11-30 02:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_button": {
     "criteria": {
       "has_planks": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
     },
     "done": true
   },
@@ -8497,9 +8653,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/gray_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-11-30 01:57:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
     },
     "done": true
   },
@@ -8527,6 +8707,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/dark_range_hood": {
     "criteria": {
       "has_range_hood": "2024-11-30 02:11:47 +0000"
@@ -8542,6 +8740,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-11-30 01:56:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
     },
     "done": true
   },
@@ -8569,9 +8773,75 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2024-11-30 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
     "criteria": {
       "has_ceiling_fan": "2024-11-30 02:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
     },
     "done": true
   },
@@ -8611,9 +8881,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-11-30 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
     },
     "done": true
   },
@@ -8629,9 +8911,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2024-11-30 00:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
     },
     "done": true
   },
@@ -8641,9 +8941,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/light_gray_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 02:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-11-30 01:56:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_lightswitch": "2024-11-30 02:33:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
     },
     "done": true
   },
@@ -8653,9 +8977,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_bath": {
+    "criteria": {
+      "has_baths": "2024-11-30 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
+    "criteria": {
+      "has_basins": "2024-11-30 02:30:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bamboo_dining_bench": {
     "criteria": {
       "has_bamboo_dining_bench": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_toilet": {
+    "criteria": {
+      "has_toilets": "2024-11-30 02:30:28 +0000"
     },
     "done": true
   },
@@ -8668,6 +9022,18 @@
   "handcrafted:recipes/misc/bamboo_side_table": {
     "criteria": {
       "has_bamboo_side_table": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_cherry_light_ceiling_fan": "2024-11-30 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
     },
     "done": true
   },
@@ -8692,6 +9058,12 @@
   "minecraft:recipes/redstone/bamboo_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-30 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2024-11-30 02:30:28 +0000"
     },
     "done": true
   },
