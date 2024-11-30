@@ -7587,6 +7587,7 @@
   "bakery:main/get_everything": {
     "criteria": {
       "bakery:strawberry_jam": "2024-11-27 16:23:40 +0000",
+      "bakery:misslilitu_biscuit": "2024-11-30 02:26:01 +0000",
       "bakery:strawberry_cake": "2024-11-27 16:44:31 +0000",
       "bakery:apple_jam": "2024-11-27 16:39:05 +0000"
     },
@@ -8571,6 +8572,12 @@
   "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
     "criteria": {
       "has_ceiling_fan": "2024-11-30 02:09:42 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_misslilitu_biscuit": {
+    "criteria": {
+      "misslilitu_biscuit": "2024-11-30 02:26:01 +0000"
     },
     "done": true
   },
