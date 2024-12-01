@@ -660,3 +660,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Dec2024 21:58:09.132] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2028ms or 40 ticks
 [01Dec2024 22:05:10.539] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2024ms or 40 ticks
 [01Dec2024 22:10:17.877] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2043ms or 40 ticks
+[01Dec2024 22:13:27.259] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[01Dec2024 22:14:26.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danynii lost connection: Timed out
+[01Dec2024 22:14:26.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii left the game
+[01Dec2024 22:14:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Dec2024 22:14:33.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Dec2024 22:14:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Dec2024 22:14:33.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Dec2024 22:14:34.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Dec2024 22:14:34.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Dec2024 22:14:34.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Dec2024 22:14:34.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[01Dec2024 22:14:34.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[01Dec2024 22:14:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 22:14:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 22:14:34.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 22:14:34.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[01Dec2024 22:14:34.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[01Dec2024 22:14:34.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Dec2024 22:14:34.997] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Dec2024 22:14:34.999] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[01Dec2024 22:14:35.002] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[01Dec2024 22:14:35.005] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
