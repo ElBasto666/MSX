@@ -9326,5 +9326,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:tabby": "2024-12-01 21:32:11 +0000",
+      "minecraft:persian": "2024-12-01 21:31:51 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
