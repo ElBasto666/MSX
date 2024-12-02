@@ -9333,6 +9333,18 @@
     },
     "done": false
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2024-12-02 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2024-12-02 16:26:44 +0000"
@@ -9342,6 +9354,18 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-02 16:32:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
+    "criteria": {
+      "has_brown_dye": "2024-12-02 16:50:44 +0000"
     },
     "done": true
   },
@@ -9357,9 +9381,57 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_brown_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2024-12-02 16:17:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-02 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-02 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-02 16:50:44 +0000"
     },
     "done": true
   },
@@ -9375,9 +9447,75 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
+    "criteria": {
+      "has_brown_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2024-12-02 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-02 16:32:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
+    "criteria": {
+      "has_brown_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-02 16:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-02 16:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-02 16:50:44 +0000"
     },
     "done": true
   },
