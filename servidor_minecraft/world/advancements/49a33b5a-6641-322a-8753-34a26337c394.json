@@ -8062,7 +8062,8 @@
   "vinery:main/crop_collector": {
     "criteria": {
       "vinery:jungle_grape_seeds_white": "2024-11-27 19:18:55 +0000",
-      "vinery:red_grape_seeds": "2024-12-03 20:44:40 +0000"
+      "vinery:red_grape_seeds": "2024-12-03 20:44:40 +0000",
+      "vinery:savanna_grape_seeds_red": "2024-12-03 21:02:32 +0000"
     },
     "done": false
   },
@@ -9609,9 +9610,57 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 21:04:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-03 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-03 21:00:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_black": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
     "criteria": {
       "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 21:04:40 +0000"
     },
     "done": true
   },
@@ -9621,9 +9670,141 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/rodai_diamond": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2024-12-03 21:00:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-03 21:06:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_golden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-03 21:06:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/katana": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-03 21:00:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-03 21:00:16 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/red_grape_bag": {
     "criteria": {
       "has_red_grape": "2024-12-03 20:44:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
@@ -9633,9 +9814,147 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/rodai_wooden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-03 20:57:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2024-12-03 21:00:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-03 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_iron": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/tachi": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_stone": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/ruby": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_silverbamboo": {
+    "criteria": {
+      "crafting": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2024-12-03 21:00:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2024-12-03 20:47:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-03 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
@@ -9651,9 +9970,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-03 21:06:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/salmon_roll": {
     "criteria": {
       "has_salmon_slice": "2024-12-03 20:47:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
@@ -9663,9 +10000,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-03 21:04:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-03 21:02:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_cod_slice": {
     "criteria": {
       "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2024-12-03 21:00:17 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_netherite": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-03 21:00:18 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_white": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
@@ -9675,15 +10078,57 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-03 21:00:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 21:00:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
     "criteria": {
       "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-03 20:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
