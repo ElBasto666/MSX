@@ -4038,6 +4038,7 @@
       "cabbage": "2024-11-21 23:24:00 +0000",
       "glow_berries": "2024-11-27 16:47:59 +0000",
       "tomato": "2024-11-21 23:23:37 +0000",
+      "beetroot": "2024-12-03 21:38:33 +0000",
       "sugar_cane": "2024-11-27 20:16:57 +0000",
       "potato": "2024-11-21 23:23:46 +0000",
       "nether_wart": "2024-11-27 15:56:07 +0000",
@@ -9750,6 +9751,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/craft_flower_headwear": {
+    "criteria": {
+      "craft_flower_headwear": "2024-12-03 21:44:31 +0000"
     },
     "done": true
   },
