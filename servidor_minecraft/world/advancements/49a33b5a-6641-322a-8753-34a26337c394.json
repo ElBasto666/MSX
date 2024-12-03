@@ -4039,6 +4039,7 @@
       "glow_berries": "2024-11-27 16:47:59 +0000",
       "tomato": "2024-11-21 23:23:37 +0000",
       "beetroot": "2024-12-03 21:38:33 +0000",
+      "cocoa": "2024-12-03 21:47:55 +0000",
       "sugar_cane": "2024-11-27 20:16:57 +0000",
       "potato": "2024-11-21 23:23:46 +0000",
       "nether_wart": "2024-11-27 15:56:07 +0000",
@@ -10321,6 +10322,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-03 21:00:18 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_yeast": {
+    "criteria": {
+      "get_yeast": "2024-12-03 21:47:33 +0000"
     },
     "done": true
   },

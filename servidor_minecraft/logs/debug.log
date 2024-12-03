@@ -5324,3 +5324,8 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [03Dec2024 21:47:18.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Dec2024 21:47:33.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Yeast of your worries, doughn't worry, be happy!]
 [03Dec2024 21:47:51.533] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[03Dec2024 21:52:18.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 21:52:18.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 21:57:18.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 21:57:18.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 21:57:18.769] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2066ms or 41 ticks
