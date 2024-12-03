@@ -1566,6 +1566,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-03 20:35:18 +0000",
       "bread": "2024-11-21 03:06:17 +0000"
     },
     "done": false
@@ -9561,9 +9562,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2024-12-02 21:50:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
     "criteria": {
       "has_spruce_leaves": "2024-12-02 21:50:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_hedge": {
+    "criteria": {
+      "has_dark_oak_leaves": "2024-12-02 21:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_mosaic_slab": {
+    "criteria": {
+      "has_bamboo_mosaic": "2024-12-02 22:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_mosaic_stairs": {
+    "criteria": {
+      "has_bamboo_mosaic": "2024-12-02 22:14:07 +0000"
     },
     "done": true
   },
@@ -9581,30 +9606,6 @@
       "minecraft:chicken": "2024-12-02 22:31:38 +0000"
     },
     "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_hedge": {
-    "criteria": {
-      "has_dark_oak_leaves": "2024-12-02 21:50:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_mosaic_slab": {
-    "criteria": {
-      "has_bamboo_mosaic": "2024-12-02 22:14:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
-    "criteria": {
-      "has_oak_leaves": "2024-12-02 21:50:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_mosaic_stairs": {
-    "criteria": {
-      "has_bamboo_mosaic": "2024-12-02 22:14:07 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
