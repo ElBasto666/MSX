@@ -9609,9 +9609,81 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2024-12-03 20:47:46 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/red_grape_bag": {
     "criteria": {
       "has_red_grape": "2024-12-03 20:44:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2024-12-03 20:47:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-03 20:47:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2024-12-03 20:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 20:47:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2024-12-03 20:47:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2024-12-03 20:48:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-03 20:47:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-03 20:47:06 +0000"
     },
     "done": true
   },
