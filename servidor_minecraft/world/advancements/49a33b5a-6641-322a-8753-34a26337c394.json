@@ -2771,14 +2771,18 @@
     "criteria": {
       "woodland": "2024-11-21 03:41:26 +0000",
       "shrubland": "2024-11-21 04:29:15 +0000",
+      "rocky_shrubland": "2024-12-03 21:31:39 +0000",
       "scrubland": "2024-11-21 03:12:43 +0000",
+      "fungal_jungle": "2024-12-03 21:33:39 +0000",
       "lush_savanna": "2024-12-03 21:22:25 +0000",
       "jade_cliffs": "2024-11-21 04:27:49 +0000",
       "clover_patch": "2024-11-27 14:47:26 +0000",
+      "mystic_grove": "2024-12-03 21:32:00 +0000",
       "old_growth_woodland": "2024-11-21 03:41:17 +0000",
       "withered_abyss": "2024-11-30 01:59:24 +0000",
       "orchard": "2024-11-21 04:30:47 +0000",
       "lavender_forest": "2024-11-21 04:29:12 +0000",
+      "moor": "2024-12-03 21:31:51 +0000",
       "mediterranean_forest": "2024-11-21 03:35:18 +0000",
       "dryland": "2024-12-03 21:15:11 +0000",
       "lush_desert": "2024-12-03 21:15:20 +0000",
@@ -10067,6 +10071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-03 21:34:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2024-12-03 20:47:06 +0000"
@@ -10247,6 +10257,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-03 21:34:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/beef_patty_from_smoking": {
     "criteria": {
       "beef_patty": "2024-12-03 21:00:17 +0000"
@@ -10358,6 +10374,12 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_flower": "2024-12-03 21:32:55 +0000"
     },
     "done": true
   },
