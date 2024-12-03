@@ -5365,3 +5365,41 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [03Dec2024 22:52:18.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Dec2024 22:57:18.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Dec2024 22:57:18.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 23:02:18.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 23:02:18.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 23:05:09.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[03Dec2024 23:05:17.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Creative Mode]
+[03Dec2024 23:06:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[03Dec2024 23:07:15.257] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2061ms or 41 ticks
+[03Dec2024 23:07:18.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 23:07:18.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 23:10:05.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Creative Mode]
+[03Dec2024 23:10:38.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[03Dec2024 23:12:18.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 23:12:18.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 23:12:53.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Dec2024 23:12:53.205] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[03Dec2024 23:12:53.212] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 49a33b5a-6641-322a-8753-34a26337c394
+[03Dec2024 23:12:53.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Dec2024 23:12:53.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Dec2024 23:12:53.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danynii lost connection: Server closed
+[03Dec2024 23:12:53.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii left the game
+[03Dec2024 23:12:53.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Dec2024 23:12:54.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Dec2024 23:12:55.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Dec2024 23:12:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03Dec2024 23:12:55.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Dec2024 23:12:55.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[03Dec2024 23:12:57.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 23:12:57.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 23:12:57.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Dec2024 23:12:57.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Dec2024 23:12:57.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03Dec2024 23:12:57.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Dec2024 23:12:57.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[03Dec2024 23:12:57.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Dec2024 23:12:57.284] [Server thread/INFO] [Framework/]: Unloading server configs...
+[03Dec2024 23:12:57.285] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[03Dec2024 23:12:57.293] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[03Dec2024 23:12:57.294] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[03Dec2024 23:12:57.297] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

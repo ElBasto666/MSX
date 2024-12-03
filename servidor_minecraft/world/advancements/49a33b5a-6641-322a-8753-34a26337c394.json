@@ -4038,6 +4038,7 @@
       "cabbage": "2024-11-21 23:24:00 +0000",
       "glow_berries": "2024-11-27 16:47:59 +0000",
       "tomato": "2024-11-21 23:23:37 +0000",
+      "kelp": "2024-12-03 23:06:31 +0000",
       "beetroot": "2024-12-03 21:38:33 +0000",
       "cocoa": "2024-12-03 21:47:55 +0000",
       "sugar_cane": "2024-11-27 20:16:57 +0000",
@@ -9923,6 +9924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-03 23:06:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2024-12-03 21:00:16 +0000"
@@ -10241,6 +10248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-03 23:06:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-03 22:52:24 +0000"
@@ -10274,6 +10287,12 @@
   "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-03 23:06:22 +0000"
     },
     "done": true
   },
