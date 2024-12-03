@@ -2772,6 +2772,7 @@
       "woodland": "2024-11-21 03:41:26 +0000",
       "shrubland": "2024-11-21 04:29:15 +0000",
       "scrubland": "2024-11-21 03:12:43 +0000",
+      "lush_savanna": "2024-12-03 21:22:25 +0000",
       "jade_cliffs": "2024-11-21 04:27:49 +0000",
       "clover_patch": "2024-11-27 14:47:26 +0000",
       "old_growth_woodland": "2024-11-21 03:41:17 +0000",
@@ -2784,6 +2785,7 @@
       "redwood_forest": "2024-11-21 04:30:00 +0000",
       "visceral_heap": "2024-11-30 02:02:02 +0000",
       "pasture": "2024-11-21 04:27:43 +0000",
+      "rocky_rainforest": "2024-12-03 21:24:32 +0000",
       "lavender_field": "2024-11-21 04:29:08 +0000",
       "grassland": "2024-11-27 14:41:18 +0000",
       "glowing_grotto": "2024-11-27 14:49:18 +0000",
@@ -9633,6 +9635,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/green_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-03 21:00:27 +0000"
@@ -9651,6 +9659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-03 21:19:04 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/fox_black": {
     "criteria": {
       "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
@@ -9660,6 +9674,12 @@
   "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2024-12-03 21:25:40 +0000"
     },
     "done": true
   },
@@ -9681,6 +9701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-03 21:20:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
     "criteria": {
       "cooked_salmon_slice": "2024-12-03 20:47:46 +0000"
@@ -9699,9 +9725,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
+    "criteria": {
+      "has_green_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
     },
     "done": true
   },
@@ -9747,9 +9785,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-03 21:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2024-12-03 21:06:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
     },
     "done": true
   },
@@ -9774,6 +9824,24 @@
   "slashblade_addon:recipes/combat/katana": {
     "criteria": {
       "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_drawer": {
+    "criteria": {
+      "has_green_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-03 21:19:04 +0000"
     },
     "done": true
   },
@@ -9873,6 +9941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-03 21:20:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-03 21:00:27 +0000"
@@ -9891,6 +9965,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-03 21:22:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
@@ -9903,9 +9983,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-03 21:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/tachi": {
     "criteria": {
       "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
     },
     "done": true
   },
@@ -9939,9 +10037,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
     "criteria": {
       "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_green_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
     },
     "done": true
   },
@@ -9960,6 +10076,18 @@
   "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
     },
     "done": true
   },
@@ -10029,6 +10157,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
+    "criteria": {
+      "has_seagrass": "2024-12-03 21:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "cooked_mutton_chops": "2024-12-03 21:12:07 +0000"
@@ -10050,6 +10190,18 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2024-12-03 21:16:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
+    "criteria": {
+      "has_green_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
     },
     "done": true
   },
@@ -10155,9 +10307,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/green_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2024-12-03 21:16:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
     },
     "done": true
   },

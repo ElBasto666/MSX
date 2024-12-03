@@ -1763,3 +1763,22 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [03Dec2024 21:17:13.651] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2011ms or 40 ticks
 [03Dec2024 21:17:20.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [03Dec2024 21:17:41.207] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
+[03Dec2024 21:18:47.347] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2055ms or 41 ticks
+[03Dec2024 21:19:00.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/12834, l='ServerLevel[world]', x=-692.38, y=66.00, z=-846.71] died, message: 'Botanist was slain by Zombie'
+[03Dec2024 21:19:46.030] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2073ms or 41 ticks
+[03Dec2024 21:21:12.209] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2096ms or 41 ticks
+[03Dec2024 21:22:09.297] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2215ms or 44 ticks
+[03Dec2024 21:22:33.126] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2039ms or 40 ticks
+[03Dec2024 21:22:49.220] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Dec2024 21:22:49.222] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Dec2024 21:23:03.592] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2143ms or 42 ticks
+[03Dec2024 21:24:58.616] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2036ms or 40 ticks
+[03Dec2024 21:25:25.228] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1062, y=58, z=-1324} but found not block entity block Block{minecraft:water}[level=0] at location
+[03Dec2024 21:25:25.229] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1062, y=58, z=-1324}
+[03Dec2024 21:25:56.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-868, y=59, z=-1238} BlockPos{x=-868, y=60, z=-1238}
+[03Dec2024 21:25:59.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-866, y=61, z=-1239} BlockPos{x=-866, y=61, z=-1241}
+[03Dec2024 21:26:25.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[03Dec2024 21:26:40.228] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2115ms or 42 ticks
+[03Dec2024 21:27:25.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16788, l='ServerLevel[world]', x=-1076.50, y=60.54, z=-1326.50] died, message: 'Villager drowned'
+[03Dec2024 21:27:43.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[03Dec2024 21:28:53.108] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2026ms or 40 ticks
