@@ -9827,6 +9827,12 @@
     },
     "done": true
   },
+  "vinery:main/wine_collector": {
+    "criteria": {
+      "vinery:apple_cider": "2024-12-03 22:42:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-03 20:57:16 +0000"
@@ -9899,6 +9905,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2024-12-03 22:42:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-03 20:57:16 +0000"
@@ -9959,6 +9971,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2024-12-03 22:42:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-03 21:00:27 +0000"
@@ -9974,6 +9992,12 @@
   "slashblade:recipes/combat/rodai_iron": {
     "criteria": {
       "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_wine": {
+    "criteria": {
+      "have_any_wine": "2024-12-03 22:42:09 +0000"
     },
     "done": true
   },
@@ -10058,6 +10082,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
     "criteria": {
       "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2024-12-03 22:42:48 +0000"
     },
     "done": true
   },
