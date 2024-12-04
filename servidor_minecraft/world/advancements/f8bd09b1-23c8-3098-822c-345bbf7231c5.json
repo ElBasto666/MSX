@@ -5896,9 +5896,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
-      "has_cod": "2024-11-30 04:12:07 +0000"
+      "has_wood_cup": "2024-11-30 03:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-11-30 03:00:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2024-11-30 03:00:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2024-11-30 03:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-11-30 03:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-11-30 03:06:31 +0000"
     },
     "done": true
   },
@@ -5908,15 +5938,64 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "slashblade:recipes/combat/slashblade_silverbamboo": {
     "criteria": {
-      "has_snowball": "2024-11-30 04:03:57 +0000"
+      "has_slashblade_bamboo": "2024-11-30 03:15:44 +0000",
+      "has_the_recipe": "2024-11-30 03:15:44 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2024-11-30 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-11-30 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-11-30 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2024-11-30 03:18:08 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2024-11-30 03:33:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-11-30 03:57:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-11-30 03:57:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-11-30 03:57:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/toasting/toast": {
+    "criteria": {
+      "has_ingredient": "2024-11-30 03:57:47 +0000"
     },
     "done": true
   },
@@ -5932,82 +6011,9 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/slashblade_silverbamboo": {
-    "criteria": {
-      "has_slashblade_bamboo": "2024-11-30 03:15:44 +0000",
-      "has_the_recipe": "2024-11-30 03:15:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2024-11-30 03:57:43 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/combo_b": {
-    "criteria": {
-      "customtrigger": "2024-11-30 03:16:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/combo_c": {
-    "criteria": {
-      "customtrigger": "2024-11-30 03:18:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2024-11-30 03:57:43 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2024-11-30 03:58:51 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2024-11-30 03:00:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-11-30 03:06:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2024-11-30 03:57:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-11-30 03:00:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-11-30 03:16:36 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/hanging_lights": {
-    "criteria": {
-      "has_lights": "2024-11-30 04:06:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/toasting/toast": {
-    "criteria": {
-      "has_ingredient": "2024-11-30 03:57:47 +0000"
     },
     "done": true
   },
@@ -6017,27 +6023,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-11-30 04:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-11-30 04:03:57 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/hanging_lights": {
+    "criteria": {
+      "has_lights": "2024-11-30 04:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-11-30 04:12:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_paper": "2024-11-30 03:06:31 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-11-30 03:16:36 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_bowl": {
-    "criteria": {
-      "has_wood_bowl": "2024-11-30 03:00:14 +0000"
+      "has_cod": "2024-11-30 04:12:07 +0000"
     },
     "done": true
   },
@@ -6047,15 +6059,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_plate": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_wood_plate": "2024-11-30 03:00:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2024-11-30 04:03:57 +0000"
+      "diamond_chestplate": "2024-12-04 01:20:19 +0000"
     },
     "done": true
   },
