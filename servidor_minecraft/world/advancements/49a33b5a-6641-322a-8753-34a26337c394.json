@@ -9624,99 +9624,33 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "vinery:recipes/red_grape_bag": {
     "criteria": {
-      "has_any_ingredient": "2024-12-03 21:04:40 +0000"
+      "has_red_grape": "2024-12-03 20:44:37 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_black_dye": "2024-12-03 20:57:16 +0000"
+      "has_the_recipe": "2024-12-03 20:47:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+  "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
-      "has_smithing_trim_template": "2024-12-03 21:16:03 +0000"
+      "has_bowl": "2024-12-03 20:47:06 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/green_cooler_from_dyeing": {
+  "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
-      "has_dye": "2024-12-03 21:17:26 +0000"
+      "has_bowl": "2024-12-03 20:47:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_chicken": "2024-12-03 21:00:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2024-12-03 21:00:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
-    "criteria": {
-      "has_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2024-12-03 21:19:04 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/fox_black": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
-    "criteria": {
-      "has_lily_pad": "2024-12-03 21:25:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
-    "criteria": {
-      "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-03 21:16:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-03 21:04:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-03 21:20:06 +0000"
+      "has_bowl": "2024-12-03 20:47:06 +0000"
     },
     "done": true
   },
@@ -9726,21 +9660,69 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/rodai_diamond": {
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
     "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+      "cooked_salmon_slice": "2024-12-03 20:47:46 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
     "criteria": {
-      "beef_patty": "2024-12-03 21:00:17 +0000"
+      "cooked_salmon_slice": "2024-12-03 20:47:46 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
+  "farmersdelight:recipes/food/salmon_roll": {
     "criteria": {
-      "has_green_dye": "2024-12-03 21:17:26 +0000"
+      "has_salmon_slice": "2024-12-03 20:47:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2024-12-03 20:48:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-03 20:57:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_black_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
@@ -9750,39 +9732,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/green_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
-  "the_bumblezone:armor/craft_flower_headwear": {
-    "criteria": {
-      "craft_flower_headwear": "2024-12-03 21:44:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2024-12-03 21:06:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_golden": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
     },
     "done": true
   },
@@ -9804,105 +9762,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2024-12-03 21:22:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2024-12-03 21:06:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/green_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-12-03 21:16:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
-  "vinery:main/wine_collector": {
-    "criteria": {
-      "vinery:apple_cider": "2024-12-03 22:42:09 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2024-12-03 22:48:17 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/katana": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_candle": {
-    "criteria": {
-      "has_green_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-03 22:55:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_drawer": {
-    "criteria": {
-      "has_green_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2024-12-03 21:19:04 +0000"
     },
     "done": true
   },
@@ -9918,57 +9786,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2024-12-03 23:06:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2024-12-03 21:00:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
-    "criteria": {
-      "cooked_bacon": "2024-12-03 21:00:16 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/red_grape_bag": {
-    "criteria": {
-      "has_red_grape": "2024-12-03 20:44:37 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2024-12-03 22:42:48 +0000"
     },
     "done": true
   },
@@ -9984,27 +9810,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_salmon_slice": {
-    "criteria": {
-      "cooked_salmon_slice": "2024-12-03 20:47:46 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_wooden": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
     },
     "done": true
   },
@@ -10014,93 +9822,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2024-12-03 20:57:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2024-12-03 21:00:17 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2024-12-03 21:20:06 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts": {
-    "criteria": {
-      "cooked_chicken_cuts": "2024-12-03 22:42:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-12-03 21:00:27 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-12-03 21:12:07 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_iron": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/get_wine": {
-    "criteria": {
-      "have_any_wine": "2024-12-03 22:42:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2024-12-03 21:22:41 +0000"
     },
     "done": true
   },
@@ -10116,75 +9840,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-03 21:20:06 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/tachi": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/green_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_stone": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/ruby": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
-    },
-    "done": true
-  },
-  "slashblade:blade/s_silverbamboo": {
-    "criteria": {
-      "crafting": "2024-12-03 20:57:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2024-12-03 21:00:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-03 21:17:26 +0000"
     },
     "done": true
   },
@@ -10194,87 +9852,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2024-12-03 22:42:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_green_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/green_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
     "criteria": {
       "has_black_dye": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2024-12-03 21:34:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2024-12-03 20:47:06 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/green_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2024-12-03 23:06:22 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/green_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-03 22:55:43 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
     },
     "done": true
   },
@@ -10290,57 +9876,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2024-12-03 23:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-12-03 22:23:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-12-03 21:00:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
-    "criteria": {
-      "cooked_salmon_slice": "2024-12-03 20:47:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_the_recipe": "2024-12-03 20:47:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-12-03 21:12:07 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
     },
     "done": true
   },
@@ -10350,111 +9888,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2024-12-03 21:06:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/salmon_roll": {
-    "criteria": {
-      "has_salmon_slice": "2024-12-03 20:47:46 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
-    "criteria": {
-      "has_seagrass": "2024-12-03 21:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-12-03 21:12:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cod_roll": {
-    "criteria": {
-      "has_cod_slice": "2024-12-03 20:48:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
-    "criteria": {
-      "has_carved_pumpkin": "2024-12-03 21:04:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2024-12-03 21:16:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
-    "criteria": {
-      "has_green_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/green_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
     },
     "done": true
   },
@@ -10476,75 +9918,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2024-12-03 21:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-12-03 21:16:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_cod_slice": {
-    "criteria": {
-      "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-03 22:55:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2024-12-03 21:34:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2024-12-03 21:00:17 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_netherite": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2024-12-03 21:00:18 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/fox_white": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/one_way_glass": {
     "criteria": {
       "has_wood": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2024-12-03 20:47:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2024-12-03 21:16:03 +0000"
     },
     "done": true
   },
@@ -10554,99 +9930,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2024-12-03 21:00:18 +0000"
-    },
-    "done": true
-  },
-  "bakery:main/get_yeast": {
-    "criteria": {
-      "get_yeast": "2024-12-03 21:47:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-03 21:00:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/green_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2024-12-03 21:16:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/green_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-03 21:17:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
-    "criteria": {
-      "cooked_cod_slice": "2024-12-03 20:48:56 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-03 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-03 22:56:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2024-12-03 20:47:06 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-03 22:56:54 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
     },
     "done": true
   },
@@ -10668,9 +9954,723 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/fox_black": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_diamond": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_golden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/katana": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_wooden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_iron": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/tachi": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_stone": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/ruby": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_silverbamboo": {
+    "criteria": {
+      "crafting": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_netherite": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_white": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2024-12-03 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-03 21:00:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-03 21:00:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2024-12-03 21:00:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2024-12-03 21:00:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2024-12-03 21:00:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2024-12-03 21:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-03 21:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-03 21:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-03 21:00:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 21:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-03 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-03 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-03 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-03 21:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-03 21:04:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 21:04:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 21:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-03 21:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-03 21:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-03 21:06:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-03 21:12:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-03 21:12:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-03 21:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-03 21:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-03 21:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-03 21:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-03 21:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-03 21:16:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-03 21:16:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-03 21:16:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
+    "criteria": {
+      "has_green_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_drawer": {
+    "criteria": {
+      "has_green_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_green_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
+    "criteria": {
+      "has_green_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-03 21:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-03 21:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-03 21:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-03 21:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-03 21:20:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-03 21:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-03 21:22:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-03 21:22:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2024-12-03 21:25:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
+    "criteria": {
+      "has_seagrass": "2024-12-03 21:25:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_flower": "2024-12-03 21:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-03 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-03 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/craft_flower_headwear": {
+    "criteria": {
+      "craft_flower_headwear": "2024-12-03 21:44:31 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_yeast": {
+    "criteria": {
+      "get_yeast": "2024-12-03 21:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-03 22:23:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wine_collector": {
+    "criteria": {
+      "vinery:apple_cider": "2024-12-03 22:42:09 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/get_wine": {
+    "criteria": {
+      "have_any_wine": "2024-12-03 22:42:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2024-12-03 22:42:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2024-12-03 22:42:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2024-12-03 22:42:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-03 22:48:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-03 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-03 22:55:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-03 22:55:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-03 22:55:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-03 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-03 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-03 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-03 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-03 23:06:22 +0000"
     },
     "done": true
   },
