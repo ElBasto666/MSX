@@ -10695,9 +10695,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2024-12-04 02:15:34 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
       "enter_acid_with_armor": "2024-12-04 01:57:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2024-12-04 02:15:33 +0000"
     },
     "done": true
   },

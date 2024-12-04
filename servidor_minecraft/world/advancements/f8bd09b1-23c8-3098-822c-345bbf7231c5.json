@@ -6173,6 +6173,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2024-12-04 02:15:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-12-04 01:40:11 +0000"
@@ -6356,6 +6362,12 @@
   "vinery:recipes/dark_cherry_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2024-12-04 02:15:23 +0000"
     },
     "done": true
   },
