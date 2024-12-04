@@ -53,6 +53,8 @@
       "minecraft:lukewarm_ocean": "2024-11-21 03:14:56 +0000",
       "minecraft:river": "2024-11-21 03:01:20 +0000",
       "minecraft:stony_shore": "2024-11-21 03:14:49 +0000",
+      "minecraft:dripstone_caves": "2024-12-04 01:53:44 +0000",
+      "minecraft:forest": "2024-12-04 01:45:59 +0000",
       "minecraft:lush_caves": "2024-11-27 14:48:44 +0000",
       "minecraft:ocean": "2024-11-27 14:41:42 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-27 15:30:34 +0000",
@@ -2600,14 +2602,18 @@
     "criteria": {
       "woodland": "2024-11-21 03:40:50 +0000",
       "shrubland": "2024-11-21 04:29:19 +0000",
+      "rocky_shrubland": "2024-12-04 01:38:52 +0000",
       "scrubland": "2024-11-21 03:12:43 +0000",
+      "highland": "2024-12-04 01:37:28 +0000",
       "jade_cliffs": "2024-11-21 04:27:53 +0000",
       "clover_patch": "2024-11-27 14:47:26 +0000",
+      "mystic_grove": "2024-12-04 01:37:01 +0000",
       "old_growth_woodland": "2024-11-21 03:41:01 +0000",
       "orchard": "2024-11-21 04:30:52 +0000",
       "lavender_forest": "2024-11-21 04:29:04 +0000",
       "mediterranean_forest": "2024-11-21 04:24:58 +0000",
       "spider_nest": "2024-11-23 05:57:06 +0000",
+      "redwood_forest": "2024-12-04 01:38:54 +0000",
       "lavender_field": "2024-11-21 04:29:08 +0000",
       "grassland": "2024-11-27 14:41:07 +0000",
       "glowing_grotto": "2024-11-27 14:49:18 +0000",
@@ -6065,9 +6071,69 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-04 01:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-04 01:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-04 01:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2024-12-04 01:39:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
     },
     "done": true
   },
@@ -6077,9 +6143,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-04 01:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-04 01:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
     },
     "done": true
   },
@@ -6101,9 +6197,111 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-04 01:40:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2024-12-04 01:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2024-12-04 01:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2024-12-04 01:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2024-12-04 01:40:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2024-12-04 01:39:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-04 01:33:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-04 01:40:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-04 01:40:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-04 01:40:11 +0000"
     },
     "done": true
   },
