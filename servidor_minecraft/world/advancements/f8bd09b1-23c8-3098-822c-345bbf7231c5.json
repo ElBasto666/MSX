@@ -6432,6 +6432,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2024-12-09 23:00:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-09 22:48:14 +0000"
@@ -6498,6 +6504,12 @@
       "spelunkie": "2024-12-09 22:19:55 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-09 23:00:55 +0000"
+    },
+    "done": true
   },
   "graveyard:graveyard/dark_iron": {
     "criteria": {
