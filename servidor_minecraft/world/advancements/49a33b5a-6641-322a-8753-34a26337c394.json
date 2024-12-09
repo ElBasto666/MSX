@@ -10714,6 +10714,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2024-12-09 23:18:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-12-09 22:54:51 +0000"
@@ -10741,6 +10747,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-09 22:59:13 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-12-09 23:15:30 +0000"
     },
     "done": true
   },
@@ -10870,6 +10882,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2024-12-09 23:19:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2024-12-09 22:57:04 +0000"
@@ -10945,6 +10963,12 @@
   "handcrafted:recipes/misc/jungle_bench": {
     "criteria": {
       "has_jungle_bench": "2024-12-09 22:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-09 23:15:30 +0000"
     },
     "done": true
   },
