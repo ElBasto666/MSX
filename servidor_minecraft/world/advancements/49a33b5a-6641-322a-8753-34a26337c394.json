@@ -10677,9 +10677,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_mud": {
+  "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
-      "has_mud": "2024-12-04 01:59:29 +0000"
+      "discover": "2024-12-04 01:54:06 +0000"
     },
     "done": true
   },
@@ -10689,27 +10689,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_toxic_caves": {
-    "criteria": {
-      "discover": "2024-12-04 01:54:06 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/radon_bottle": {
-    "criteria": {
-      "radon_bottle": "2024-12-04 02:15:34 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
       "enter_acid_with_armor": "2024-12-04 01:57:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-12-04 01:59:29 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium_rod": {
     "criteria": {
       "limestone": "2024-12-04 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2024-12-04 02:15:34 +0000"
     },
     "done": true
   },
