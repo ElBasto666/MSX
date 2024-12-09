@@ -10792,6 +10792,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "helmet": "2024-12-09 23:28:34 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/jungle_drawer": {
     "criteria": {
       "has_jungle_drawer": "2024-12-09 22:57:04 +0000"
