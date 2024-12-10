@@ -57,3 +57,23 @@
 [10Dec2024 00:36:07.350] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3669ms or 73 ticks
 [10Dec2024 00:36:07.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
 [10Dec2024 00:36:46.741] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2017ms or 40 ticks
+[10Dec2024 00:39:32.214] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2101ms or 42 ticks
+[10Dec2024 00:43:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[10Dec2024 00:44:08.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[10Dec2024 00:44:13.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danynii lost connection: Disconnected
+[10Dec2024 00:44:13.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii left the game
+[10Dec2024 00:44:55.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbasto_[/127.84.42.74:50539] logged in with entity id 47097 at (-1042.616444520864, 63.0, 290.4362341485368)
+[10Dec2024 00:44:55.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ joined the game
+[10Dec2024 00:44:55.798] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2097ms or 41 ticks
+[10Dec2024 00:44:58.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
+[10Dec2024 00:47:33.526] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
+[10Dec2024 00:49:57.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbasto_: Set own game mode to Creative Mode]
+[10Dec2024 00:50:42.299] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2081ms or 41 ticks
+[10Dec2024 00:52:29.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbasto_: Set own game mode to Survival Mode]
+[10Dec2024 00:58:40.562] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2102ms or 42 ticks
+[10Dec2024 01:06:35.913] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2099ms or 41 ticks
+[10Dec2024 01:08:11.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danynii[/127.55.55.101:34437] logged in with entity id 54431 at (-1050.7739570537046, 72.0625, 289.8948866019894)
+[10Dec2024 01:08:11.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii joined the game
+[10Dec2024 01:09:05.004] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2089ms or 41 ticks
+[10Dec2024 01:11:21.169] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2098ms or 41 ticks
+[10Dec2024 01:15:29.139] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2120ms or 42 ticks
