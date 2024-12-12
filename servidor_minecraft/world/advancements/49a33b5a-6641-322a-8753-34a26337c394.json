@@ -2788,6 +2788,7 @@
       "lavender_forest": "2024-11-21 04:29:12 +0000",
       "moor": "2024-12-03 21:31:51 +0000",
       "mediterranean_forest": "2024-11-21 03:35:18 +0000",
+      "coniferous_forest": "2024-12-12 23:02:03 +0000",
       "spider_nest": "2024-12-12 22:58:38 +0000",
       "dryland": "2024-12-03 21:15:11 +0000",
       "lush_desert": "2024-12-03 21:15:20 +0000",
@@ -2796,6 +2797,7 @@
       "pasture": "2024-11-21 04:27:43 +0000",
       "rocky_rainforest": "2024-12-03 21:24:32 +0000",
       "lavender_field": "2024-11-21 04:29:08 +0000",
+      "fir_clearing": "2024-12-12 23:03:47 +0000",
       "grassland": "2024-11-27 14:41:18 +0000",
       "glowing_grotto": "2024-11-27 14:49:18 +0000",
       "rainforest": "2024-11-27 14:40:19 +0000"
@@ -11192,6 +11194,12 @@
   "graveyard:graveyard/find_skeleton": {
     "criteria": {
       "skeleton": "2024-12-12 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/breed_grottoceratops": {
+    "criteria": {
+      "breed": "2024-12-12 23:07:16 +0000"
     },
     "done": true
   },
