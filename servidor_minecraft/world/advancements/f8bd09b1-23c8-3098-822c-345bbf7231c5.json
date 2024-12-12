@@ -6584,15 +6584,15 @@
     },
     "done": true
   },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2024-12-10 00:52:15 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2024-12-10 00:50:50 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-10 00:52:15 +0000"
     },
     "done": true
   },
