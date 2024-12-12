@@ -635,3 +635,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [12Dec2024 20:07:36.260] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2035ms or 40 ticks
 [12Dec2024 20:08:42.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasto_ lost connection: Disconnected
 [12Dec2024 20:08:42.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ left the game
+[12Dec2024 20:10:18.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Creative Mode]
+[12Dec2024 20:11:10.212] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2083ms or 41 ticks
+[12Dec2024 20:17:10.668] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2365ms or 47 ticks
+[12Dec2024 20:18:38.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[12Dec2024 20:18:43.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[12Dec2024 20:18:50.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danynii lost connection: Disconnected
+[12Dec2024 20:18:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii left the game
