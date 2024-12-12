@@ -676,3 +676,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [12Dec2024 21:17:32.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii left the game
 [12Dec2024 21:17:47.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasto_ lost connection: Disconnected
 [12Dec2024 21:17:47.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ left the game
+[12Dec2024 21:30:28.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danynii[/127.55.55.101:49479] logged in with entity id 23560 at (-1050.7752660614276, 72.0, 281.13738223544823)
+[12Dec2024 21:30:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii joined the game
+[12Dec2024 21:30:30.599] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3009ms or 60 ticks
+[12Dec2024 21:32:22.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbasto_[/127.84.42.74:44395] logged in with entity id 24340 at (-1065.5, 72.0, 267.5)
+[12Dec2024 21:32:22.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ joined the game
+[12Dec2024 21:32:23.376] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2104ms or 42 ticks
+[12Dec2024 21:33:00.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasto_> hola meu
+[12Dec2024 21:33:05.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ was slain by Zombie
+[12Dec2024 21:34:21.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danynii has made the advancement [Stay dead]
+[12Dec2024 21:35:03.613] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2093ms or 41 ticks
+[12Dec2024 21:37:11.536] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2790ms or 55 ticks
+[12Dec2024 21:37:11.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[12Dec2024 21:37:27.182] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2002ms or 40 ticks
+[12Dec2024 21:37:38.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11819ms or 236 ticks behind
+[12Dec2024 21:37:44.879] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2102ms or 42 ticks
+[12Dec2024 21:37:56.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[12Dec2024 21:38:09.681] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2138ms or 42 ticks
+[12Dec2024 21:38:31.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[12Dec2024 21:38:52.763] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2077ms or 41 ticks
+[12Dec2024 21:39:13.003] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
+[12Dec2024 21:39:13.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
