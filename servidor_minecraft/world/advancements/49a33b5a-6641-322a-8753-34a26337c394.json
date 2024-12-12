@@ -11182,5 +11182,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_vallumraptor": {
+    "criteria": {
+      "killed": "2024-12-12 22:21:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
