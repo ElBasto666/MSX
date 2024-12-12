@@ -2788,6 +2788,7 @@
       "lavender_forest": "2024-11-21 04:29:12 +0000",
       "moor": "2024-12-03 21:31:51 +0000",
       "mediterranean_forest": "2024-11-21 03:35:18 +0000",
+      "spider_nest": "2024-12-12 22:58:38 +0000",
       "dryland": "2024-12-03 21:15:11 +0000",
       "lush_desert": "2024-12-03 21:15:20 +0000",
       "redwood_forest": "2024-11-21 04:30:00 +0000",
@@ -11179,6 +11180,18 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2024-12-12 21:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-12 22:54:38 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2024-12-12 22:59:33 +0000"
     },
     "done": true
   },
