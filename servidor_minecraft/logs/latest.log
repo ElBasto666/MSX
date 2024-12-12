@@ -650,3 +650,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [12Dec2024 20:46:41.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Creative Mode]
 [12Dec2024 20:47:13.226] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2023ms or 40 ticks
 [12Dec2024 20:47:36.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[12Dec2024 20:49:52.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[12Dec2024 20:54:36.224] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2024ms or 40 ticks
+[12Dec2024 20:59:21.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[12Dec2024 20:59:25.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[12Dec2024 21:00:17.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[12Dec2024 21:00:22.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbasto_[/127.84.42.74:51987] logged in with entity id 18557 at (-1066.1593395960065, 72.5625, 268.8965478499624)
+[12Dec2024 21:00:22.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasto_ joined the game
+[12Dec2024 21:00:42.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[12Dec2024 21:00:47.227] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2023ms or 40 ticks
+[12Dec2024 21:00:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[12Dec2024 21:00:52.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[12Dec2024 21:01:09.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[12Dec2024 21:01:15.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
+[12Dec2024 21:02:29.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Teleported Danynii to elbasto_]
+[12Dec2024 21:04:54.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1077, y=71, z=308} BlockPos{x=-1076, y=69, z=309}
+[12Dec2024 21:06:05.606] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2027ms or 40 ticks
+[12Dec2024 21:06:40.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Teleported Danynii to elbasto_]
+[12Dec2024 21:08:43.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Teleported Danynii to elbasto_]
