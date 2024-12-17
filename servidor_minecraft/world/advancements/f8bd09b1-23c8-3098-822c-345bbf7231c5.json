@@ -6114,7 +6114,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-04 01:33:08 +0000"
+      "minecraft:nether_wastes": "2024-12-04 01:33:08 +0000",
+      "minecraft:warped_forest": "2024-12-17 04:35:08 +0000"
     },
     "done": false
   },
@@ -6608,6 +6609,24 @@
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2024-12-12 23:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-17 04:36:19 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2024-12-17 04:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-17 04:36:19 +0000"
     },
     "done": true
   },
