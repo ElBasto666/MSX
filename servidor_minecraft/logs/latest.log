@@ -3,3 +3,6 @@
 [18Dec2024 00:04:16.242] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2969ms or 59 ticks
 [18Dec2024 00:09:15.639] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2085ms or 41 ticks
 [18Dec2024 00:10:50.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Creative Mode]
+[18Dec2024 00:25:58.063] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2074ms or 41 ticks
+[18Dec2024 00:31:41.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Spectator Mode]
+[18Dec2024 00:31:57.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danynii: Set own game mode to Survival Mode]
