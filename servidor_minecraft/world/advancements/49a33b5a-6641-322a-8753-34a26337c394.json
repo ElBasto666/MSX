@@ -11479,9 +11479,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/tame_subterranodon": {
+  "alexscaves:alexscaves/trilocaris_bucket": {
     "criteria": {
-      "killed": "2024-12-29 22:28:49 +0000"
+      "trilocaris_bucket": "2024-12-29 21:06:16 +0000"
     },
     "done": true
   },
@@ -11491,9 +11491,9 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/trilocaris_bucket": {
+  "alexscaves:alexscaves/tame_subterranodon": {
     "criteria": {
-      "trilocaris_bucket": "2024-12-29 21:06:16 +0000"
+      "killed": "2024-12-29 22:28:49 +0000"
     },
     "done": true
   },
