@@ -11479,6 +11479,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2024-12-29 22:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2024-12-29 21:31:01 +0000"
