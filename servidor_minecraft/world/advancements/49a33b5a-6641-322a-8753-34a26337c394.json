@@ -11477,6 +11477,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-29 21:31:01 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/trilocaris_bucket": {
     "criteria": {
       "trilocaris_bucket": "2024-12-29 21:06:16 +0000"
